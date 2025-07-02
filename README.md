@@ -6,6 +6,9 @@ so starting with HTML
 <h1>HTML</h>
 <br>
 <b>Date:02/06.2025</b>
+<br>
+<p>
 .today i learn the basic Syntax of html 
 .Headings,Title,
 .about Tags like - <p>,<br>,<pre>,<abbr,<q>,<blockquote>,<h1>,<b>,<strong>,<em>,<address>,<cite>
+</p>
