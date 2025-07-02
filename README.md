@@ -8,6 +8,6 @@ so starting with HTML
 <b>Date:02/06.2025</b>
 <br>
 
-<!-- .today i learn the basic Syntax of html 
-.Headings,Title,
-.about Tags like - <p>,<br>,<pre>,<abbr,<q>,<blockquote>,<h1>,<b>,<strong>,<em>,<address>,<cite> -->
+today i learn the basic Syntax of html 
+Headings,Title,
+about Tags like - <p>,<br>,<pre>,<abbr>,<q>,<blockquote>,<h1>,<b>,<strong>,<em>,<address>,<cite>
