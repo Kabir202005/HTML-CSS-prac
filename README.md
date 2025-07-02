@@ -10,6 +10,9 @@ so starting with HTML
 today i learn the basic Syntax of html 
 Headings,Title,
 about Tags like -p,br,pre,abbr,q,blockquote,h1,b,strong,em,address,cite
+about link tag by "a" href add link ,target to open new tab,
+title added when hover on it we can add local to scroll on the 
+same page 
 
 <br>
 <b>Date:02/06.2025</b>
