@@ -1,5 +1,5 @@
 # HTML-CSS-prac
-<h1>HTML</h>
+<h1>HTML</h1>
 <br>
 
 so this is the read me file of my repo
