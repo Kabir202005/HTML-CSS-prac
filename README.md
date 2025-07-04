@@ -21,6 +21,13 @@ Headings,Title,
 4.learn to add mail link "a href="mailto:Kabir202005@gmail.com"
 
 <br>
-<b>Date:02/06.2025</b>
-
+<b>Date:02/06/2025</b>
+<br>
+<br>
+1.Today we learn about how to add image to a page by using img tag and add src to add source of the image
+<br>
+2.about Ordered list Unordered List and Description list
+<br>
+<br>
+<b>Date:04/06/25</b>
 
